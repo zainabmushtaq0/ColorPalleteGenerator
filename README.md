@@ -1,0 +1,2 @@
+# ColorPalleteGenerator
+creating color palletes
